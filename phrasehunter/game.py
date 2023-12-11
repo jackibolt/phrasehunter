@@ -64,7 +64,7 @@ class Game():
             self.start()
         else:
             print('ok, thanks for playing.')
-            break
+
 
 
 
